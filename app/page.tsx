@@ -1,4 +1,5 @@
 import MenuTabs from "./MenuTabs";
+import SiteHeader from "./SiteHeader";
 
 const featuredItems = [
   {
@@ -45,29 +46,7 @@ const logoUrl = "/assets/logo.png";
 export default function Home() {
   return (
     <main>
-      <header className="site-header">
-        <nav className="nav-shell">
-          <a className="brand" href="#" aria-label="Newnan Chili Thai Express home">
-            <object data={logoUrl} type="image/png" aria-label="Newnan Chili Thai Express logo">
-              <img src="/newnan-chili-thai-logo.svg" alt="Newnan Chili Thai Express logo" />
-            </object>
-            <span className="brand-wordmark">
-              <span className="brand-city">Newnan</span>
-              <strong>Chili Thai</strong>
-              <em>Express</em>
-            </span>
-          </a>
-          <div className="nav-links">
-            <a href="#menu">Our Food</a>
-            <a href="#catering">Catering</a>
-            <a href="#rewards">Rewards</a>
-            <a href="#visit">Visit</a>
-          </div>
-          <a className="button button-red" href={orderUrl} target="_blank" rel="noreferrer">
-            Order Now
-          </a>
-        </nav>
-      </header>
+      <SiteHeader />
 
       <section className="hero">
         <div className="shell hero-grid">
