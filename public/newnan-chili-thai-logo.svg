@@ -1,0 +1,25 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="1024" rx="24" fill="#050505"/>
+  <path d="M250 275C343 218 680 219 774 274" stroke="#F26C43" stroke-width="31" stroke-linecap="round"/>
+  <path d="M252 278C352 338 674 338 773 278" stroke="#C73518" stroke-width="9" stroke-linecap="round" opacity=".75"/>
+  <path d="M209 398C199 475 240 591 503 606C767 620 830 488 807 396" stroke="#F26C43" stroke-width="31" stroke-linecap="round"/>
+  <path d="M255 278C279 458 355 653 512 653C669 653 748 458 772 278" fill="#111315"/>
+  <path d="M254 281C337 335 688 336 772 281" stroke="#F26C43" stroke-width="28" stroke-linecap="round"/>
+  <path d="M333 124L505 424" stroke="#5E6268" stroke-width="19" stroke-linecap="round"/>
+  <path d="M353 111L527 424" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+  <path d="M279 148L461 424" stroke="#5E6268" stroke-width="17" stroke-linecap="round"/>
+  <path d="M297 136L481 424" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+  <path d="M559 348C577 273 645 241 620 160" stroke="#3C91FF" stroke-width="15" stroke-linecap="round"/>
+  <path d="M604 351C625 271 693 239 675 126" stroke="#3C91FF" stroke-width="15" stroke-linecap="round"/>
+  <path d="M648 348C689 260 734 218 733 54" stroke="#3C91FF" stroke-width="15" stroke-linecap="round"/>
+  <text x="304" y="567" fill="white" font-size="126" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-weight="900" letter-spacing="2">NEWNAN</text>
+  <text transform="translate(53 690) rotate(46)" fill="white" stroke="#D93418" stroke-width="9" paint-order="stroke" font-size="97" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-weight="900">CHILI</text>
+  <text transform="translate(659 808) rotate(-43)" fill="white" stroke="#2F8F3D" stroke-width="9" paint-order="stroke" font-size="97" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-weight="900">THAI</text>
+  <path d="M465 740C496 724 526 707 555 680C546 721 531 746 508 759C489 770 475 760 465 740Z" fill="#2F8F3D"/>
+  <path d="M523 763C544 793 548 832 526 861C514 826 509 795 523 763Z" fill="#2F8F3D"/>
+  <path d="M553 724C558 790 534 850 504 881C504 821 516 765 553 724Z" fill="#E84920"/>
+  <path d="M553 724C551 788 527 836 511 857" stroke="#9E2410" stroke-width="9" stroke-linecap="round"/>
+  <path d="M206 851C240 879 278 897 320 907" stroke="white" stroke-width="11" stroke-linecap="round"/>
+  <path d="M817 851C783 879 745 897 703 907" stroke="white" stroke-width="11" stroke-linecap="round"/>
+  <text x="318" y="941" fill="white" font-size="62" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-weight="900" letter-spacing="12">EXPRESS</text>
+</svg>
