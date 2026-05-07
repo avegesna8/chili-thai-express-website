@@ -1198,6 +1198,14 @@ h3 {
     grid-template-columns: 1fr;
   }
 
+  .combo-copy {
+    order: 1;
+  }
+
+  .size-guide {
+    order: 2;
+  }
+
   .size-card {
     grid-template-columns: 120px 1fr;
     align-items: center;
